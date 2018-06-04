@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="src" path="db"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="res/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="res/JTattoo-1.6.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rafin_000/Google Drive/MESTRADO-POLI/2013.2/BD/Projeto 2.0/Codigo/Projeto/DomainAggregator/res/mongo-2.10.1.jar" sourcepath="C:/Users/rafin_000/.m2/repository/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
